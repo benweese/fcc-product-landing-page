@@ -1,5 +1,6 @@
 [Free Code Camp: Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 --------------------
+![Actions](https://github.com/benweese/fcc-product-landing-page/workflows/Jekyll%20site%20CI/badge.svg) ![GitHub](https://img.shields.io/github/license/benweese/fcc-product-landing-page.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/benweese/fcc-product-landing-page.svg)
 
 This is Free Code Camp's Build a Product Landing Page. It passes all the below user stories and meets the minium of the reqirements.
 
